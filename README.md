@@ -1,5 +1,5 @@
 ------------------------
-# Raspberry Pi scripts
+# Installer Arch Linux for Raspberry Pi
 ------------------------
 
 
